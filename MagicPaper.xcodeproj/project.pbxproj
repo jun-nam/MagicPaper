@@ -13,6 +13,7 @@
 		6EDCA66B234787E30054E209 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDCA669234787E30054E209 /* Main.storyboard */; };
 		6EDCA66D234787E50054E209 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EDCA66C234787E50054E209 /* Assets.xcassets */; };
 		6EDCA670234787E50054E209 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EDCA66E234787E50054E209 /* LaunchScreen.storyboard */; };
+		6EDCA67B234788360054E209 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6EDCA67A234788360054E209 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6EDCA66C234787E50054E209 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EDCA66F234787E50054E209 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6EDCA671234787E50054E209 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6EDCA67A234788360054E209 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,10 +59,11 @@
 			isa = PBXGroup;
 			children = (
 				6EDCA663234787E30054E209 /* AppDelegate.swift */,
-				6EDCA665234787E30054E209 /* art.scnassets */,
 				6EDCA667234787E30054E209 /* ViewController.swift */,
 				6EDCA669234787E30054E209 /* Main.storyboard */,
 				6EDCA66C234787E50054E209 /* Assets.xcassets */,
+				6EDCA665234787E30054E209 /* art.scnassets */,
+				6EDCA67A234788360054E209 /* harrypotter.mp4 */,
 				6EDCA66E234787E50054E209 /* LaunchScreen.storyboard */,
 				6EDCA671234787E50054E209 /* Info.plist */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				6EDCA666234787E30054E209 /* art.scnassets in Resources */,
 				6EDCA670234787E50054E209 /* LaunchScreen.storyboard in Resources */,
+				6EDCA67B234788360054E209 /* harrypotter.mp4 in Resources */,
 				6EDCA66D234787E50054E209 /* Assets.xcassets in Resources */,
 				6EDCA66B234787E30054E209 /* Main.storyboard in Resources */,
 			);
